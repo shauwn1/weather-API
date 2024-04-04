@@ -1,0 +1,9 @@
+#map-container {
+    width: 400px;
+    height: 400px;
+}
+
+#weather-info {
+    margin-top: 20px;
+    text-align: center;
+}
